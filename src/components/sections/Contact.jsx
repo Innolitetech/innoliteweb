@@ -177,14 +177,14 @@ export default function Contact() {
           <div className="mt-6">
             <iframe
               title="InnoLite Technologies — Anna Nagar, Madurai"
-              src="https://www.google.com/maps?q=Anna+Nagar,+Madurai,+Tamil+Nadu+625020&output=embed"
+              src="https://maps.google.com/maps?q=9.923933,78.149350&z=17&output=embed"
               className="h-[200px] w-full rounded-xl border-0"
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
             />
             <div className="mt-2 text-right">
               <a
-                href="https://maps.google.com/?q=Anna+Nagar,+Madurai,+Tamil+Nadu+625020"
+                href="https://www.google.com/maps/search/?api=1&query=9.923933%2C78.149350"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-1 font-body text-xs font-semibold text-orange hover:underline"

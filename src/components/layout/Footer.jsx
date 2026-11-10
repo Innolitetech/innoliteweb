@@ -116,7 +116,7 @@ export default function Footer() {
                   rel="noopener noreferrer"
                   className="font-body text-sm text-white/60 transition-colors hover:text-white"
                 >
-                  653, 14th East Cross Street, Anna Nagar, Madurai – 625020, Tamil Nadu,
+                  No 19, New LIG Colony, Anna Nagar, Sathamangalam, Madurai – 625020, Tamil Nadu,
                   India
                 </a>
               </li>

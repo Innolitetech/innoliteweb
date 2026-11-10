@@ -18,6 +18,7 @@ import {
   Compass,
   Award,
   Rocket,
+  Bot,
   Circle,
 } from 'lucide-react';
 
@@ -39,6 +40,7 @@ const registry = {
   Compass,
   Award,
   Rocket,
+  Bot,
 };
 
 // Resolve a Lucide icon by its string name (from data files).

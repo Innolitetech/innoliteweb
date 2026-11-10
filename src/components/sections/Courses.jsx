@@ -106,7 +106,7 @@ export default function Courses() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <SectionHeader
           eyebrow="What You'll Learn"
-          title="10 Cutting-Edge Courses"
+          title="11 Cutting-Edge Courses"
           subtitle="From software to hardware — learn what the industry actually uses. Click any track below or scroll to stack through them."
           className="mx-auto"
         />

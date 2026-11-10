@@ -49,6 +49,17 @@ export const courses = [
     tag: null,
   },
   {
+  id: 'ros-2',
+  slug: 'ros-2',
+  shortName: 'ROS 2',
+  icon: 'Bot',
+  title: 'ROS 2 (Robot Operating System)',
+  description:
+    'Build intelligent autonomous robots using ROS 2. Master robot communication, nodes, topics, services, sensors, navigation, and real-time robotic applications through hands-on projects.',
+  duration: '6 Weeks',
+  tag: 'New',
+  },
+  {
     id: 'java',
     slug: 'java',
     shortName: 'Java',
@@ -235,8 +246,8 @@ export const contactInfo = [
     icon: 'MapPin',
     label: 'Visit Us',
     values: [
-      '653, 14th East Cross Street,',
-      'Anna Nagar, Madurai – 625020,',
+      'No 19, New LIG Colony, Anna Nagar,',
+      'Sathamangalam, Madurai - 625020,',
       'Tamil Nadu, India',
     ],
   },
@@ -254,6 +265,7 @@ export const stats = [
 // Technologies marquee (devicon CDN names + display label)
 export const technologies = [
   { name: 'Python', slug: 'python' },
+  { name: 'Ubuntu', slug: 'ubuntu' },
   { name: 'Java', slug: 'java' },
   { name: 'React', slug: 'react' },
   { name: 'Arduino', slug: 'arduino' },
@@ -263,4 +275,5 @@ export const technologies = [
   { name: 'Flutter', slug: 'flutter' },
   { name: 'Node.js', slug: 'nodejs' },
   { name: 'Raspberry Pi', slug: 'raspberrypi' },
+  { name: 'ROS 2', slug: 'ros' },
 ];
