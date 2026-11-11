@@ -7,7 +7,7 @@ function TickerItem({ tech }) {
   return (
     <li className="flex shrink-0 items-center gap-2.5 px-6">
       <img
-        src={deviconUrl(tech.slug)}
+        src={tech.logo || deviconUrl(tech.slug)}
         alt={tech.name}
         width={28}
         height={28}

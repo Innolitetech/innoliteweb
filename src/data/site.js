@@ -265,7 +265,6 @@ export const stats = [
 // Technologies marquee (devicon CDN names + display label)
 export const technologies = [
   { name: 'Python', slug: 'python' },
-  { name: 'Ubuntu', slug: 'ubuntu' },
   { name: 'Java', slug: 'java' },
   { name: 'React', slug: 'react' },
   { name: 'Arduino', slug: 'arduino' },
@@ -276,4 +275,10 @@ export const technologies = [
   { name: 'Node.js', slug: 'nodejs' },
   { name: 'Raspberry Pi', slug: 'raspberrypi' },
   { name: 'ROS 2', slug: 'ros' },
+
+  // Robotics and Mechanical Technologies
+  { name: 'Gazebo', slug: 'gazebo' },
+  { name: 'SOLIDWORKS', logo: '/logos/solidworks.svg' },
+  { name: 'SLAM', logo: '/logos/slam.svg' },
+  { name: 'Nav2', logo: '/logos/nav2.png' },
 ];
