@@ -106,11 +106,11 @@ export const courses = [
   {
     id: 'data-analytics',
     slug: 'data-analytics',
-    shortName: 'Power BI / Data',
+    shortName: 'Data Analytics',
     icon: 'BarChart3',
-    title: 'Data Analytics & Power BI',
+    title: 'Data Analytics',
     description:
-      'Turn raw data into decisions. Learn SQL, Excel modeling, and Power BI dashboard design.',
+      'Transform raw data into meaningful insights. Learn to collect, clean, analyze, and visualize data while developing the skills to make smarter, data-driven decisions.',
     duration: '4 Weeks',
     tag: null,
   },
